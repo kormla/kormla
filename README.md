@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <h2>Hi there, my name is Elikplim Atefoe👋</h2>
+  <h2>Hi there, my name is Elikplim 👋</h2>
   <p>Biomedical Engineer | Data Analyst | AI in Healthcare Enthusiast</p>
 </div>
 
